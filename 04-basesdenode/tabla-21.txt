@@ -1,0 +1,10 @@
+El resultado de 21 X 1 = 21
+El resultado de 21 X 2 = 42
+El resultado de 21 X 3 = 63
+El resultado de 21 X 4 = 84
+El resultado de 21 X 5 = 105
+El resultado de 21 X 6 = 126
+El resultado de 21 X 7 = 147
+El resultado de 21 X 8 = 168
+El resultado de 21 X 9 = 189
+El resultado de 21 X 10 = 210

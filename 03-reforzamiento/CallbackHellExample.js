@@ -27,7 +27,7 @@ const getEmpleado  =(id, callback)=>{
     //  console.log(empleado)
  }
 
-getEmpleado(33, (err, empleado)=>{
+getEmpleado(3, (err, empleado)=>{
     
 // console.log(empleado)
 if(err ){

@@ -1,0 +1,10 @@
+El resultado de 22 X 1 = 22
+El resultado de 22 X 2 = 44
+El resultado de 22 X 3 = 66
+El resultado de 22 X 4 = 88
+El resultado de 22 X 5 = 110
+El resultado de 22 X 6 = 132
+El resultado de 22 X 7 = 154
+El resultado de 22 X 8 = 176
+El resultado de 22 X 9 = 198
+El resultado de 22 X 10 = 220

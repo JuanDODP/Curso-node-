@@ -1,0 +1,10 @@
+El resultado de 10 X 1 = 10
+El resultado de 10 X 2 = 20
+El resultado de 10 X 3 = 30
+El resultado de 10 X 4 = 40
+El resultado de 10 X 5 = 50
+El resultado de 10 X 6 = 60
+El resultado de 10 X 7 = 70
+El resultado de 10 X 8 = 80
+El resultado de 10 X 9 = 90
+El resultado de 10 X 10 = 100

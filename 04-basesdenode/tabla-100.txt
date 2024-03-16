@@ -1,0 +1,10 @@
+El resultado de 100 X 1 = 100
+El resultado de 100 X 2 = 200
+El resultado de 100 X 3 = 300
+El resultado de 100 X 4 = 400
+El resultado de 100 X 5 = 500
+El resultado de 100 X 6 = 600
+El resultado de 100 X 7 = 700
+El resultado de 100 X 8 = 800
+El resultado de 100 X 9 = 900
+El resultado de 100 X 10 = 1000
