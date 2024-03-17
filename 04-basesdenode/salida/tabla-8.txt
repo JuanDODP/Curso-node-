@@ -1,0 +1,10 @@
+El resultado de 8 X 1 = 8
+El resultado de 8 X 2 = 16
+El resultado de 8 X 3 = 24
+El resultado de 8 X 4 = 32
+El resultado de 8 X 5 = 40
+El resultado de 8 X 6 = 48
+El resultado de 8 X 7 = 56
+El resultado de 8 X 8 = 64
+El resultado de 8 X 9 = 72
+El resultado de 8 X 10 = 80
